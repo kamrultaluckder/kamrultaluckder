@@ -1,4 +1,5 @@
-# Executive Profile | MD. KAMRUL ISLAM 👋
+# MD. KAMRUL ISLAM
+### Network Infrastructure & Information Security
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Network%20%26%20Cyber%20Security-007ACC?style=for-the-badge&logo=cisco&logoColor=white" alt="Focus Badge" />
@@ -7,16 +8,23 @@
 
 ---
 
-### 🔭 Professional Overview
-I am an academic and enterprise technical professional concurrently pursuing a Diploma in Computer Science alongside a Postgraduate Diploma (PGD). Grounded in infrastructure engineering,, my strategic directives involve architecting high-availability digital networks and enforcing corporate-level threat mitigation frameworks.
-
-* ⚡ **Strategic Vision:** Developing global competencies in **Enterprise Systems Architecture,, Network Topology Optimization,, Threat Surface Minimization,, and Cloud Security Auditing**.
-* 🌱 **Current Operational Focus:** Enterprise routing and switching protocols,, zero-trust architecture parameters,, and scalable infrastructure resilience.
-* 💼 **Corporate Philosophy:** Uncompromising dedication to operational discipline,, strict corporate ethics,, and the deployment of ready-for-audit enterprise solutions.
+## Technical Profile
+Dedicated and discipline-driven Computer Science professional currently pursuing dual academic tracks. Focused on architectural engineering across enterprise-level routing,, switching,, and high-availability systems management. Strategically training to mitigate network vulnerabilities,, design resilient infrastructure,, and implement industry-standard security frameworks.
 
 ---
 
-### 🛠️ Core Technologies & Strategic Domains
+## Academic & Professional Qualification
+* **Diploma in Engineering (Computer Science & Technology)**  
+  Daffodil Polytechnic Institute  
+  *Core Scope:* Computational logic,, database systems,, and baseline software architectures.
+
+* **Postgraduate Diploma (Network Systems Administration)**  
+  PeopleNTech  
+  *Core Scope:* Enterprise network infrastructure,, server operations,, systems deployment,, and routing/switching configurations.
+
+---
+
+## Technical Competencies
 
 #### 🌐 Enterprise Infrastructure & Systems
 <p align="left">
@@ -39,12 +47,17 @@ I am an academic and enterprise technical professional concurrently pursuing a D
 
 ---
 
-### 🤝 Strategic Partnerships & Communications
-* 👯 **Enterprise Initiatives:** Available for collaborative deployment on enterprise-scale network infrastructure simulations,, cross-platform system integration,, and network vulnerability management.
-* 💬 **Consultative Disclosures:** Open for targeted discussions regarding standard routing architectures,, information asset protection,, or the direct impact of global geopolitics on digital infrastructure security.
-* 📫 **Corporate Liaison:** Formal alignment proposals or technical correspondence can be systematically directed through my professional LinkedIn network or via standard GitHub communication parameters.
+## Areas of Technical Exploration & Collaboration
+* **Architectural Simulation:** Scalable enterprise network topology design and deployment models.
+* **Systems Administration:** Implementation of secure operating systems and network optimization matrices.
+* **Corporate Technical Alignment:** Development of audit-ready technical blueprints and administrative workflow controls.
 
 ---
 
-### 🎯 International Standard Commitment
-All architectural design plans,, framework structures,, and procedural blueprints are built strictly from the ground up to comply with internationally accepted corporate standards,, engineered specifically for instant real-world operational deployment.
+## Professional Communication
+Formal queries,, technical alignments,, or professional infrastructure correspondence can be initiated through my official LinkedIn profile or established directly via GitHub communications.
+
+---
+
+## Standards Adherence
+All system blueprints,, documentation strategies,, and infrastructure mappings are engineered from inception to align with recognized international corporate methodologies,, designed specifically for real-world operational readiness.
