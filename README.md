@@ -15,7 +15,7 @@ Dedicated and discipline-driven Computer Science professional currently pursuing
 
 ## Academic & Professional Qualification
 * **Diploma in Engineering (Computer Science & Technology)**  
-  Daffodil Polytechnic Institute  
+  Daffodil Polytechnic Institute, Chandpur  
   *Core Scope:* Computational logic,, database systems,, and baseline software architectures.
 
 * **Postgraduate Diploma (Network Systems Administration)**  
