@@ -196,7 +196,7 @@ Core values: **Discipline · Accountability · Quality**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -221,26 +221,22 @@ Core values: **Discipline · Accountability · Quality**
 
 ---
 
-## ◈ Connect With Me
+## ◈ Professional Communication
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-kamrul-islam-528063266">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kamrultaluckder">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/md-kamrul-islam-528063266">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/kamrultaluckder">
-  <img src="https://img.shields.io/badge/GitHub-kamrultaluckder-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<p>
+<p align="center">
 Formal queries, technical alignments, or professional infrastructure correspondence<br/>
 are welcomed through LinkedIn or direct GitHub communications.
 </p>
-
-</div>
 
 ---
 
