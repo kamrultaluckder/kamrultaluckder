@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=007ACC&center=true&vCenter=true&width=650&lines=Network+Infrastructure+Engineer;Information+Security+Specialist;Enterprise+Systems+Architect;ISO+%2F+CCNA+%2F+CompTIA+Security%2B+Certified;Discipline+%C2%B7+Accountability+%C2%B7+Quality;Building+Toward+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=007ACC&center=true&vCenter=true&width=650&lines=Network+Infrastructure+Engineer;Information+Security+Specialist;Enterprise+Systems+Architect;CompTIA+Security%2B+%E2%9C%85+Certified;CCNA+%7C+Linux+RHCSA+%7C+MikroTik+MTCNA;Discipline+%C2%B7+Accountability+%C2%B7+Quality;Building+Toward+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -34,10 +34,9 @@
 |:---:|:---|
 | 👤 **NAME** | MD. Kamrul Islam |
 | 💼 **ROLE** | Network & Security Infrastructure Professional |
-| 📚 **TRACK** | Diploma (CST) · Postgraduate Diploma (NSA) |
-| 🎓 **CREDENTIAL**| CompTIA Security+ Certified |
-| 🎯 **TARGET** | CCNA · Linux (RHCSA) · AWS Cloud · ISO 27001 |
-| 🔭 **VISION** | Enterprise Architect ──► Security Researcher |
+| 📚 **TRACK** | Diploma in CST · PGD in Network Systems Administration |
+| 🏆 **CERTIFIED** | CompTIA Security+ · CompTIA A+ |
+| 🔄 **ACTIVE** | CCNA · Linux RHCSA · MikroTik MTCNA |
 | 🌍 **GOAL** | Bachelor's → Master's → PhD `[ Germany ]` |
 
 <br/>
@@ -51,13 +50,13 @@
 
 ## ◈ Technical Profile
 
-Dedicated Computer Science professional pursuing dual academic tracks in **Computer Science Technology** and **Network Systems Administration**. Strategically developing expertise across enterprise-grade routing, switching, high-availability infrastructure design, and information security frameworks — engineered for real-world operational environments.
+Dedicated Computer Science professional pursuing dual academic tracks in **Computer Science Technology** and **Network Systems Administration** (360 Hours · 8 Modules). Strategically developing expertise across enterprise-grade routing, switching, Linux server hardening, cloud infrastructure, and information security — engineered for real-world operational environments.
 
-Core values driving every project: **Discipline · Accountability · Quality**
+Core values: **Discipline · Accountability · Quality**
 
 ---
 
-## ◈ Academic & Professional Qualifications
+## ◈ Academic Qualifications
 
 <table>
   <tr>
@@ -65,75 +64,70 @@ Core values driving every project: **Discipline · Accountability · Quality**
       <h4>🎓 Diploma in Engineering</h4>
       <b>Computer Science & Technology</b><br/>
       <i>Daffodil Polytechnic Institute, Chandpur</i><br/><br/>
-      <b>Scope:</b> Computational logic · Database systems · Software architecture foundations
+      <b>Scope:</b> Computational logic · Database systems · Software architecture
     </td>
     <td width="50%" valign="top">
-      <h4>🎓 Postgraduate Diploma</h4>
+      <h4>🎓 Post Graduate Diploma</h4>
       <b>Network Systems Administration</b><br/>
-      <i>PeopleNTech</i><br/><br/>
-      <b>Scope:</b> Enterprise networking · Server operations · Routing & switching · Systems deployment
+      <i>PeopleNTech</i><br/>
+      <i>Total: 360 Hours · 8 Modules</i><br/><br/>
+      <b>Scope:</b> Enterprise networking · Server ops · Security · Cloud
     </td>
   </tr>
 </table>
 
 ---
 
-## ◈ Certification & PGD Roadmap
+## ◈ PGD — NSA Course Modules
 
 <div align="center">
 
-### 🗺️ Strategic Certification & Module Track
+### 📋 Post Graduate Diploma in Network Systems Administration
+#### PeopleNTech · 360 Hours · 8 Modules
 
-| Status | Certification / Module | Domain | Priority |
-|:---:|:---|:---|:---:|
-| 🔄 | **Diploma — CST** | Computer Science & Technology | ✅ Active |
-| 🔄 | **PGD — NSA** | Network Systems Administration | ✅ Active |
-| 🎉 | **CompTIA Security+** | Information Security Fundamentals | 🏆 Completed |
-| 🔄 | **CCNA (200-301)** | Cisco Certified Network Associate | 🟡 Running |
-| 🎯 | **CompTIA A+** | Core Hardware & IT Troubleshooting | 🔜 Next |
-| 🎯 | **Linux Administration (RHEL)** | Systems Administration (RHCSA/RHCE) & Hardening | 🔜 Next |
-| 🎯 | **Windows Server Administration** | Enterprise Server Infrastructure (2019) | 🔜 Next |
-| 📌 | **AWS Solutions Architect** | Cloud Architecture (Associate) | 🔜 Next |
-| 📌 | **Advanced MikroTik Networking** | ISP Setup & Routing (MTCNA/MTCRE) | 🔜 Next |
-| 📌 | **IT Security & Ethical Hacking** | Cyber Security & Offensive Operations | 🔜 Next |
-| 📌 | **ISO/IEC 27001** | Information Security Management Framework | 📅 Planned |
-| 🌍 | **Bachelor's-Germany** | Computer Science / Networking | 🔮 Vision |
-| 🌍 | **Master's-Germany** | Information Security / Research | 🔮 Vision |
-| 🌍 | **PhD-Germany** | Security Research & Innovation | 🔮 Vision |
+| # | Module | Coverage | Hours | Status |
+|:---:|:---|:---|:---:|:---:|
+| 1 | **CompTIA A+** | Computer Hardware · Operations · Network Troubleshooting | 30h | ✅ Done |
+| 2 | **CCNA — Cisco (200-301)** | Cisco Certified Network Associate | 65h | 🔄 Running |
+| 3 | **Linux Admin — RHEL 8.3** | RHCSA · RHCE · Server Hardening & Security | 75h | 📅 Upcoming |
+| 4 | **Windows Server 2019** | Server Administration & Management | 75h | 📅 Upcoming |
+| 5 | **AWS Solution Architect** | Cloud Infrastructure & Architecture | 25h | 📅 Upcoming |
+| 6 | **Advanced MikroTik** | MTCNA · MTCRE · ISP Setup | 30h | 📅 Upcoming |
+| 7 | **IT Security & Ethical Hacking** | Offensive & Defensive Security | 30h | 📅 Upcoming |
+| 8 | **Project / Industrial Attachment** | Real-world Deployment | 30h | 📅 Upcoming |
 
 </div>
 
-<br/>
+---
+
+## ◈ Certification Portfolio
 
 <div align="center">
 
-**Current Progress Snapshot**
+| Status | Certification | Issuer | Domain |
+|:---:|:---|:---:|:---|
+| ✅ **DONE** | **CompTIA Security+** | CompTIA | Information Security |
+| ✅ **DONE** | **CompTIA A+** | CompTIA | Hardware & Networking |
+| 🔄 **RUNNING** | **CCNA (200-301)** | Cisco | Network Engineering |
+| 🔜 **NEXT** | **Linux RHCSA/RHCE** | Red Hat | Server Administration |
+| 🔜 **NEXT** | **AWS SAA** | Amazon | Cloud Architecture |
+| 🔜 **NEXT** | **MikroTik MTCNA** | MikroTik | ISP & Routing |
+| 📅 **PLANNED** | **CEH** | EC-Council | Ethical Hacking |
+| 📅 **PLANNED** | **ISO/IEC 27001** | ISO | Security Governance |
+| 🔮 **VISION** | **Bachelor's — Germany** | TU/University | CS / Networking |
+| 🔮 **VISION** | **Master's — Germany** | University | Information Security |
+| 🔮 **VISION** | **PhD — Germany** | Research | Security & Innovation |
 
+<br/>
 
-
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Certified-00C853?style=for-the-badge&logo=comptia&logoColor=white)
-
-
-
-
-![CCNA](https://img.shields.io/badge/CCNA_200--301-Running-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
-
-
-
-
-![Linux](https://img.shields.io/badge/Linux_RHEL-In_Progress-FCC624?style=for-the-badge&logo=redhat&logoColor=white)
-
-
-
-
-![Diploma](https://img.shields.io/badge/Diploma_CST-In_Progress-00C853?style=for-the-badge&logo=white)
-
-
-
-
-![PGD](https://img.shields.io/badge/PGD_NSA-In_Progress-00C853?style=for-the-badge&logo=white)
-
-
+<p>
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-CERTIFIED-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA_A%2B-CERTIFIED-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA_200--301-In_Progress-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_RHCSA-Upcoming-FCC624?style=for-the-badge&logo=redhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS_SAA-Upcoming-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik_MTCNA-Upcoming-CC0000?style=for-the-badge&logoColor=white" />
+</p>
 
 </div>
 
@@ -144,18 +138,20 @@ Core values driving every project: **Discipline · Accountability · Quality**
 #### 🌐 Enterprise Infrastructure & Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005EA2?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Network_Architecture-007ACC?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Networking-005EA2?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server_2019-0078D4?style=flat-square&logo=windows-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_RHEL_8.3-FCC624?style=flat-square&logo=redhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/MikroTik_RouterOS-CC0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 #### 🔒 Information Assurance & Cyber Operations
 
 <p>
-  <img src="https://img.shields.io/badge/Cyber_Security-E4101F?style=flat-square&logo=rootsigned&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Network_Security-000000?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Risk_Mitigation-008080?style=flat-square&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server_Hardening-008080?style=flat-square&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-E4101F?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Firewall_Management-FF6D00?style=flat-square&logo=pfSense&logoColor=white" />
 </p>
 
@@ -163,11 +159,12 @@ Core values driving every project: **Discipline · Accountability · Quality**
 
 | Layer | Competency |
 |:---|:---|
-| **Network Layer** | IP Subnetting · VLSM · Routing Protocols (RIP, OSPF) |
-| **Infrastructure** | VLAN Design · STP · NAT/PAT · DHCP · DNS |
-| **Security** | Access Control Lists · VPN Fundamentals · Threat Analysis |
-| **Operating Systems** | Windows Server Administration · Linux CLI |
-| **Governance** | ISO/IEC 27001 Framework · Technical Documentation |
+| **Network Layer** | IP Subnetting · VLSM · RIP · OSPF · BGP Fundamentals |
+| **Infrastructure** | VLAN · STP · NAT/PAT · DHCP · DNS · ISP Setup |
+| **Security** | ACL · VPN · Server Hardening · Threat Analysis |
+| **Server Administration** | Windows Server 2019 · Linux RHEL 8.3 · RHCSA/RHCE |
+| **Cloud & Virtualization** | AWS Solution Architecture · Cloud Deployment |
+| **Governance** | ISO/IEC 27001 · CompTIA Security+ Framework |
 
 ---
 
@@ -177,10 +174,6 @@ Core values driving every project: **Discipline · Accountability · Quality**
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamrultaluckder&show_icons=true&theme=tokyonight&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kamrultaluckder&theme=tokyonight&hide_border=true&background=0D1117&ring=007ACC&fire=FF6B6B&currStreakLabel=007ACC" />
-
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrultaluckder&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC&text_color=FFFFFF&bg_color=0D1117" />
 
 </div>
 
@@ -210,7 +203,11 @@ Core values driving every project: **Discipline · Accountability · Quality**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -221,7 +218,8 @@ Core values driving every project: **Discipline · Accountability · Quality**
 | Domain | Scope |
 |:---|:---|
 | 🗺️ **Network Topology Design** | Scalable enterprise simulation & deployment models |
-| ⚙️ **Systems Administration** | Secure OS implementation & optimization matrices |
+| 🐧 **Linux Server Administration** | RHEL · RHCSA/RHCE · Server hardening & security |
+| ☁️ **Cloud Architecture** | AWS Solution design & cloud infrastructure |
 | 🔐 **Security Architecture** | Risk-mapped, audit-ready infrastructure blueprints |
 | 📋 **Governance & Compliance** | ISO-aligned documentation & operational frameworks |
 
@@ -244,8 +242,6 @@ Core values driving every project: **Discipline · Accountability · Quality**
     <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<br/>
 
 <p align="center">
 Formal queries, technical alignments, or professional infrastructure correspondence<br/>
