@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007ACC,100:0D1117&height=200&section=header&text=MD.%20KAMRUL%20ISLAM&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Network%20Infrastructure%20%7C%20Information%20Security%20%7C%20Enterprise%20Systems&descSize=16&descAlignY=58&descColor=A0C4FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:003366,70:007ACC,100:0D1117&height=220&section=header&text=MD.%20KAMRUL%20ISLAM&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Network%20Infrastructure%20%E2%94%82%20Information%20Security%20%E2%94%82%20Enterprise%20Systems&descSize=15&descAlignY=56&descColor=A0C4FF&animation=fadeIn" />
 
 <br/>
 
@@ -12,13 +12,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Network+Infrastructure+Engineer;Information+Security+Specialist;Enterprise+Systems+Architect;Discipline+%C2%B7+Accountability+%C2%B7+Quality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=007ACC&center=true&vCenter=true&width=650&lines=Network+Infrastructure+Engineer;Information+Security+Specialist;Enterprise+Systems+Architect;ISO+%2F+CCNA+%2F+CompTIA+Security%2B+Aspirant;Discipline+%C2%B7+Accountability+%C2%B7+Quality;Building+Toward+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 
 <br/><br/>
 
 
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=kamrultaluckder&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kamrultaluckder&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
@@ -30,10 +30,6 @@
 
 ## 🪪 IDENTITY MATRIX
 
-</div>
-
-<div align="center">
-
 | Field | Details |
 |:---:|:---|
 | 👤 **NAME** | MD. Kamrul Islam |
@@ -41,11 +37,7 @@
 | 📚 **TRACK** | Diploma (CST) · Postgraduate Diploma (NSA) |
 | 🎯 **TARGET** | CCNA · CompTIA Security+ · ISO 27001 |
 | 🔭 **VISION** | Enterprise Architect ──► Security Researcher |
-| 🌍 **GOAL** | Bachelor's → Master's → PhD [ Germany ] |
-
-</div>
-
-<div align="center">
+| 🌍 **GOAL** | Bachelor's → Master's → PhD `[ Germany ]` |
 
 <br/>
 
@@ -58,7 +50,7 @@
 
 ## ◈ Technical Profile
 
-Dedicated Computer Science professional pursuing dual academic tracks in **Computer Science Technology** and **Network Systems Administration**. Strategically developing expertise across enterprise-grade routing, switching, high-availability infrastructure design, and information security frameworks ,, engineered for real-world operational environments.
+Dedicated Computer Science professional pursuing dual academic tracks in **Computer Science Technology** and **Network Systems Administration**. Strategically developing expertise across enterprise-grade routing, switching, high-availability infrastructure design, and information security frameworks — engineered for real-world operational environments.
 
 Core values driving every project: **Discipline · Accountability · Quality**
 
@@ -82,6 +74,62 @@ Core values driving every project: **Discipline · Accountability · Quality**
     </td>
   </tr>
 </table>
+
+---
+
+## ◈ Certification Roadmap
+
+<div align="center">
+
+### 🗺️ Strategic Certification Track
+
+| Status | Certification | Domain | Priority |
+|:---:|:---|:---|:---:|
+| 🔄 | **Diploma — CST** | Computer Science & Technology | ✅ Active |
+| 🔄 | **PGD — NSA** | Network Systems Administration | ✅ Active |
+| 🎯 | **CCNA** | Cisco Certified Network Associate | 🔜 Next |
+| 🎯 | **CompTIA Security+** | Information Security Fundamentals | 🔜 Next |
+| 📌 | **ISO/IEC 27001** | Information Security Management | 📅 Planned |
+| 📌 | **CEH** | Certified Ethical Hacker | 📅 Planned |
+| 🌍 | **Bachelor's — Germany** | Computer Science / Networking | 🔮 Vision |
+| 🌍 | **Master's — Germany** | Information Security / Research | 🔮 Vision |
+| 🌍 | **PhD — Germany** | Security Research & Innovation | 🔮 Vision |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Current Progress Snapshot**
+
+
+
+![CCNA](https://img.shields.io/badge/CCNA-Preparing-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
+
+
+
+
+![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Preparing-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+
+
+
+
+![ISO27001](https://img.shields.io/badge/ISO%2FIEC_27001-Planned-232F3E?style=for-the-badge&logoColor=white)
+
+
+
+
+![Diploma](https://img.shields.io/badge/Diploma_CST-In_Progress-00C853?style=for-the-badge&logoColor=white)
+
+
+
+
+![PGD](https://img.shields.io/badge/PGD_NSA-In_Progress-00C853?style=for-the-badge&logoColor=white)
+
+
+
+</div>
 
 ---
 
@@ -114,6 +162,51 @@ Core values driving every project: **Discipline · Accountability · Quality**
 | **Security** | Access Control Lists · VPN Fundamentals · Threat Analysis |
 | **Operating Systems** | Windows Server Administration · Linux CLI |
 | **Governance** | ISO/IEC 27001 Framework · Technical Documentation |
+
+---
+
+## ◈ GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamrultaluckder&show_icons=true&theme=tokyonight&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kamrultaluckder&theme=tokyonight&hide_border=true&background=0D1117&ring=007ACC&fire=FF6B6B&currStreakLabel=007ACC" />
+
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrultaluckder&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC&text_color=FFFFFF&bg_color=0D1117" />
+
+</div>
+
+---
+
+## ◈ Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamrultaluckder&bg_color=0D1117&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true&title_color=007ACC" />
+
+</div>
+
+---
+
+## ◈ Achievements & Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kamrultaluckder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+---
+
+## ◈ Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kamrultaluckder/kamrultaluckder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
@@ -156,7 +249,7 @@ are welcomed through LinkedIn or direct GitHub communications.
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007ACC,100:0D1117&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:003366,70:007ACC,100:0D1117&height=120&section=footer" />
   <br/>
   <sub><i>Engineered with discipline &nbsp;·&nbsp; Secured by design &nbsp;·&nbsp; Built for the long game</i></sub>
 </div>
