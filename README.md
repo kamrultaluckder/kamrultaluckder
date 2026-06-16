@@ -225,7 +225,7 @@ Core values: **Discipline · Accountability · Quality**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-kamrul-islam-528063266">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kamrultaluckder">
