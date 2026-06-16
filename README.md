@@ -179,6 +179,16 @@ Core values: **Discipline · Accountability · Quality**
 
 ---
 
+## ◈ Earned Achievements
+
+<div align="center">
+
+<img src="https://github-badges.github.io/github-badges/badges.svg" width="250" alt="GitHub Achievements" />
+
+</div>
+
+---
+
 ## ◈ Activity Graph
 
 <div align="center">
