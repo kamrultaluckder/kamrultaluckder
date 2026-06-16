@@ -2,29 +2,70 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007ACC,100:0D1117&height=200&section=header&text=MD.%20KAMRUL%20ISLAM&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Network%20Infrastructure%20%7C%20Information%20Security%20%7C%20Enterprise%20Systems&descSize=16&descAlignY=58&descColor=A0C4FF" />
 
+<br/>
+
 <p>
   <img src="https://img.shields.io/badge/Status-Actively%20Learning-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Network%20%26%20Cyber%20Security-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Standards-ISO%2FIEC%2027001%20Aligned-232F3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEyIDJMMiA3djZsMTAgNSA0LTVWMTFsLTQgMloiLz48L3N2Zz4=&logoColor=white" />
 </p>
 
+<br/>
+
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Network+Infrastructure+Engineer;Information+Security+Specialist;Enterprise+Systems+Architect;Discipline+%C2%B7+Accountability+%C2%B7+Quality" alt="Typing SVG" />
+
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
+
+### ─────────────── `IDENTITY MATRIX` ───────────────
+
+</div>
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  NAME     :  MD. Kamrul Islam                                    │
-│  ROLE     :  Network & Security Infrastructure Professional      │
-│  TRACK    :  Diploma (CST)  +  Postgraduate Diploma (NSA)        │
-│  TARGET   :  CCNA  ·  CompTIA Security+  ·  ISO 27001            │
-│  VISION   :  Enterprise Architect  →  Security Researcher        │
-└──────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ██╗██████╗ ███████╗███╗   ██╗████████╗██╗████████╗██╗   ██╗      ║
+║    ██║██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██║╚══██╔══╝╚██╗ ██╔╝     ║
+║    ██║██║  ██║█████╗  ██╔██╗ ██║   ██║   ██║   ██║    ╚████╔╝      ║
+║    ██║██║  ██║██╔══╝  ██║╚██╗██║   ██║   ██║   ██║     ╚██╔╝       ║
+║    ██║██████╔╝███████╗██║ ╚████║   ██║   ██║   ██║      ██║        ║
+║    ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝   ╚═╝      ╚═╝        ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ◉  NAME     ──  MD. Kamrul Islam                                  ║
+║   ◉  ROLE     ──  Network & Security Infrastructure Professional    ║
+║   ◉  TRACK    ──  Diploma (CST)  ║  Postgraduate Diploma (NSA)      ║
+║   ◉  TARGET   ──  CCNA  ·  CompTIA Security+  ·  ISO 27001          ║
+║   ◉  VISION   ──  Enterprise Architect  ──►  Security Researcher    ║
+║   ◉  GOAL     ──  Bachelor's → Master's → PhD  [ Germany ]          ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   " Discipline is the foundation of every resilient system —        ║
+║     in networks, in security, and in self. "                        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-> *"Discipline is the foundation of every resilient system — in networks, in security, and in self."*
+<div align="center">
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kamrultaluckder.kamrultaluckder&color=007ACC)
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=kamrultaluckder&color=007ACC&style=flat-square&label=Profile+Views)
+
+
+
+</div>
 
 ---
 
@@ -108,14 +149,17 @@ Core values driving every project: **Discipline · Accountability · Quality**
 
 ## ◈ Professional Communication
 
-<p>
-  <a href="https://www.linkedin.com/in/md-kamrul-islam-528063266" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-kamrul-islam-528063266">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/kamrultaluckder" target="_blank">
+  &nbsp;
+  <a href="https://github.com/kamrultaluckder">
     <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<br/>
 
 Formal queries, technical alignments, or professional infrastructure correspondence are welcomed through LinkedIn or direct GitHub communications.
 
@@ -123,5 +167,6 @@ Formal queries, technical alignments, or professional infrastructure corresponde
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007ACC,100:0D1117&height=100&section=footer" />
-  <sub><i>Engineered with discipline · Secured by design · Built for the long game</i></sub>
+  <br/>
+  <sub><i>Engineered with discipline &nbsp;·&nbsp; Secured by design &nbsp;·&nbsp; Built for the long game</i></sub>
 </div>
