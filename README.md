@@ -12,8 +12,15 @@
 
 <br/>
 
-<!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Network+Infrastructure+Engineer;Information+Security+Specialist;Enterprise+Systems+Architect;Discipline+%C2%B7+Accountability+%C2%B7+Quality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Network+Infrastructure+Engineer;Information+Security+Specialist;Enterprise+Systems+Architect;Discipline+%C2%B7+Accountability+%C2%B7+Quality" alt="Typing SVG" />
+
+<br/><br/>
+
+
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=kamrultaluckder&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS)
+
+
 
 </div>
 
@@ -21,49 +28,29 @@
 
 <div align="center">
 
-### ─────────────── `IDENTITY MATRIX` ───────────────
+## 🪪 IDENTITY MATRIX
 
 </div>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██╗██████╗ ███████╗███╗   ██╗████████╗██╗████████╗██╗   ██╗      ║
-║    ██║██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██║╚══██╔══╝╚██╗ ██╔╝     ║
-║    ██║██║  ██║█████╗  ██╔██╗ ██║   ██║   ██║   ██║    ╚████╔╝      ║
-║    ██║██║  ██║██╔══╝  ██║╚██╗██║   ██║   ██║   ██║     ╚██╔╝       ║
-║    ██║██████╔╝███████╗██║ ╚████║   ██║   ██║   ██║      ██║        ║
-║    ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝   ╚═╝      ╚═╝        ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   ◉  NAME     ──  MD. Kamrul Islam                                  ║
-║   ◉  ROLE     ──  Network & Security Infrastructure Professional    ║
-║   ◉  TRACK    ──  Diploma (CST)  ║  Postgraduate Diploma (NSA)      ║
-║   ◉  TARGET   ──  CCNA  ·  CompTIA Security+  ·  ISO 27001          ║
-║   ◉  VISION   ──  Enterprise Architect  ──►  Security Researcher    ║
-║   ◉  GOAL     ──  Bachelor's → Master's → PhD  [ Germany ]          ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   " Discipline is the foundation of every resilient system —        ║
-║     in networks, in security, and in self. "                        ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| Field | Details |
+|:---:|:---|
+| 👤 **NAME** | MD. Kamrul Islam |
+| 💼 **ROLE** | Network & Security Infrastructure Professional |
+| 📚 **TRACK** | Diploma (CST) · Postgraduate Diploma (NSA) |
+| 🎯 **TARGET** | CCNA · CompTIA Security+ · ISO 27001 |
+| 🔭 **VISION** | Enterprise Architect ──► Security Researcher |
+| 🌍 **GOAL** | Bachelor's → Master's → PhD `[ Germany ]` |
+
+</div>
 
 <div align="center">
 
+<br/>
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kamrultaluckder.kamrultaluckder&color=007ACC)
-
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=kamrultaluckder&color=007ACC&style=flat-square&label=Profile+Views)
-
-
+> *"Discipline is the foundation of every resilient system —*
+> *in networks, in security, and in self."*
 
 </div>
 
@@ -121,7 +108,7 @@ Core values driving every project: **Discipline · Accountability · Quality**
 #### ⚙️ Protocol & Systems Stack
 
 | Layer | Competency |
-|-------|-----------|
+|:---|:---|
 | **Network Layer** | IP Subnetting · VLSM · Routing Protocols (RIP, OSPF) |
 | **Infrastructure** | VLAN Design · STP · NAT/PAT · DHCP · DNS |
 | **Security** | Access Control Lists · VPN Fundamentals · Threat Analysis |
@@ -132,12 +119,12 @@ Core values driving every project: **Discipline · Accountability · Quality**
 
 ## ◈ Domains of Expertise & Collaboration
 
-```
-  [ Network Topology Design ]  ──►  Scalable enterprise simulation & deployment models
-  [ Systems Administration  ]  ──►  Secure OS implementation & optimization matrices
-  [ Security Architecture   ]  ──►  Risk-mapped, audit-ready infrastructure blueprints
-  [ Governance & Compliance ]  ──►  ISO-aligned documentation & operational frameworks
-```
+| Domain | Scope |
+|:---|:---|
+| 🗺️ **Network Topology Design** | Scalable enterprise simulation & deployment models |
+| ⚙️ **Systems Administration** | Secure OS implementation & optimization matrices |
+| 🔐 **Security Architecture** | Risk-mapped, audit-ready infrastructure blueprints |
+| 📋 **Governance & Compliance** | ISO-aligned documentation & operational frameworks |
 
 ---
 
@@ -153,7 +140,7 @@ Core values driving every project: **Discipline · Accountability · Quality**
   <a href="https://www.linkedin.com/in/md-kamrul-islam-528063266">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/kamrultaluckder">
     <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -161,7 +148,10 @@ Core values driving every project: **Discipline · Accountability · Quality**
 
 <br/>
 
-Formal queries, technical alignments, or professional infrastructure correspondence are welcomed through LinkedIn or direct GitHub communications.
+<p align="center">
+Formal queries, technical alignments, or professional infrastructure correspondence<br/>
+are welcomed through LinkedIn or direct GitHub communications.
+</p>
 
 ---
 
