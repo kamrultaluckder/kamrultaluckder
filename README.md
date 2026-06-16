@@ -58,7 +58,7 @@
 
 ## ◈ Technical Profile
 
-Dedicated Computer Science professional pursuing dual academic tracks in **Computer Science Technology** and **Network Systems Administration**. Strategically developing expertise across enterprise-grade routing, switching, high-availability infrastructure design, and information security frameworks — engineered for real-world operational environments.
+Dedicated Computer Science professional pursuing dual academic tracks in **Computer Science Technology** and **Network Systems Administration**. Strategically developing expertise across enterprise-grade routing, switching, high-availability infrastructure design, and information security frameworks ,, engineered for real-world operational environments.
 
 Core values driving every project: **Discipline · Accountability · Quality**
 
