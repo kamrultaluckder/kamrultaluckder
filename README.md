@@ -41,7 +41,7 @@
 | 📚 **TRACK** | Diploma (CST) · Postgraduate Diploma (NSA) |
 | 🎯 **TARGET** | CCNA · CompTIA Security+ · ISO 27001 |
 | 🔭 **VISION** | Enterprise Architect ──► Security Researcher |
-| 🌍 **GOAL** | Bachelor's → Master's → PhD `[ Germany ]` |
+| 🌍 **GOAL** | Bachelor's → Master's → PhD [ Germany ] |
 
 </div>
 
