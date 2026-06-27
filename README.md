@@ -1,27 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,25:0D1B2A,60:0A4C8B,100:0A0E1A&height=240&section=header&text=MD.%20KAMRUL%20ISLAM&fontSize=46&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&desc=Network%20Infrastructure%20%20%7C%20%20Information%20Security%20%20%7C%20%20Enterprise%20Systems&descSize=14&descAlignY=55&descAlign=50&descColor=88B4E7&animation=fadeIn" />
-
-</div>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,25:0D1B2A,60:0A4C8B,100:0A0E1A&height=240&section=header&text=MD.%20KAMRUL%20ISLAM&fontSize=46&fontColor=FFFFFF&fontAlignY=35&fontAlign=50&desc=Network%20Infrastructure%20%7C%20Information%20Security%20%7C%20Enterprise%20Systems&descSize=14&descAlignY=55&descAlign=50&descColor=88B4E7&animation=fadeIn" />
 
 <br/>
 
-[
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=4A9EDB&center=true&vCenter=true&width=680&lines=Network+%26+Security+Infrastructure+Professional;CompTIA+Security%2B+%7C+CompTIA+A%2B+%7C+Certified;CCNA+200-301+%7C+Currently+In+Progress;Enterprise+Routing+%7C+Switching+%7C+Server+Administration;Discipline+%C2%B7+Accountability+%C2%B7+Quality" alt="Typing SVG" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=4A9EDB&center=true&vCenter=true&width=680&lines=Network+%26+Security+Infrastructure+Professional;CompTIA+Security%2B+%7C+CompTIA+A%2B+%7C+Certified;CCNA+200-301+%7C+Currently+In+Progress;Enterprise+Routing+%7C+Switching+%7C+Server+Administration;Discipline+%C2%B7+Accountability+%C2%B7+Quality)
-
-](https://git.io/typing-svg)
-
-<br/>
+<br/><br/>
 
 <p>
-<img src="https://img.shields.io/badge/◈%20STATUS-ACTIVELY%20LEARNING-0A4C8B?style=for-the-badge&labelColor=0D1B2A&color=0A4C8B" />
-&nbsp;
-<img src="https://img.shields.io/badge/◈%20FOCUS-NETWORK%20%26%20CYBER%20SECURITY-0A4C8B?style=for-the-badge&logo=cisco&logoColor=88B4E7&labelColor=0D1B2A&color=0A4C8B" />
-&nbsp;
-<img src="https://img.shields.io/badge/◈%20STANDARD-ISO%2FIEC%2027001-0A4C8B?style=for-the-badge&labelColor=0D1B2A&color=0A4C8B" />
+  <img src="https://img.shields.io/badge/%E2%97%88%20STATUS-ACTIVELY%20LEARNING-0A4C8B?style=for-the-badge&labelColor=0D1B2A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%97%88%20FOCUS-NETWORK%20%26%20CYBER%20SECURITY-0A4C8B?style=for-the-badge&logo=cisco&logoColor=88B4E7&labelColor=0D1B2A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%97%88%20STANDARD-ISO%2FIEC%2027001-0A4C8B?style=for-the-badge&labelColor=0D1B2A" />
 </p>
 
 <br/>
@@ -30,44 +22,42 @@
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-## ❑ &nbsp; P R O F E S S I O N A L &nbsp; I D E N T I T Y
+## ❑ PROFESSIONAL IDENTITY
 
 <br/>
 
 <table>
 <tr>
-<td align="right" width="30%"><b>👤 &nbsp; FULL NAME</b></td>
+<td align="right" width="32%"><b>👤 FULL NAME</b></td>
 <td width="3%">│</td>
-<td width="67%">MD. Kamrul Islam</td>
+<td>MD. Kamrul Islam</td>
 </tr>
 <tr>
-<td align="right"><b>💼 &nbsp; DESIGNATION</b></td>
+<td align="right"><b>💼 DESIGNATION</b></td>
 <td>│</td>
 <td>Network & Security Infrastructure Professional</td>
 </tr>
 <tr>
-<td align="right"><b>📚 &nbsp; ACADEMIC TRACK</b></td>
+<td align="right"><b>📚 ACADEMIC TRACK</b></td>
 <td>│</td>
-<td>Diploma in CST &nbsp;·&nbsp; PGD in Network Systems Administration</td>
+<td>Diploma in CST · PGD in Network Systems Administration</td>
 </tr>
 <tr>
-<td align="right"><b>🏆 &nbsp; CERTIFIED</b></td>
+<td align="right"><b>🏆 CERTIFIED</b></td>
 <td>│</td>
-<td>CompTIA Security+ &nbsp;·&nbsp; CompTIA A+</td>
+<td>CompTIA Security+ · CompTIA A+</td>
 </tr>
 <tr>
-<td align="right"><b>🔄 &nbsp; IN PROGRESS</b></td>
+<td align="right"><b>🔄 IN PROGRESS</b></td>
 <td>│</td>
-<td>CCNA 200-301 &nbsp;·&nbsp; Linux RHCSA &nbsp;·&nbsp; MikroTik MTCNA</td>
+<td>CCNA 200-301 · Linux RHCSA · MikroTik MTCNA</td>
 </tr>
 <tr>
-<td align="right"><b>📍 &nbsp; LOCATION</b></td>
+<td align="right"><b>📍 LOCATION</b></td>
 <td>│</td>
 <td>Bangladesh</td>
 </tr>
@@ -75,18 +65,14 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/─────────────────────────────────────────-0A0E1A?style=for-the-badge&labelColor=0A0E1A&color=0A4C8B" />
-
-<br/><br/>
-
-*" Discipline is the foundation of every resilient system —*
-*in networks, in security, and in self. "*
+> *"Discipline is the foundation of every resilient system —*
+> *in networks, in security, and in self."*
 
 </div>
 
 ---
 
-## ❑ &nbsp; EXECUTIVE SUMMARY
+## ❑ EXECUTIVE SUMMARY
 
 Dedicated and discipline-driven Computer Science professional pursuing dual academic tracks in **Computer Science Technology** and **Network Systems Administration** (360 Hours · 8 Modules · PeopleNTech). Strategically developing enterprise-grade expertise across routing, switching, Linux server hardening, cloud infrastructure design, and information security governance — engineered for real-world operational environments and international professional standards.
 
@@ -104,19 +90,19 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 ---
 
-## ❑ &nbsp; ACADEMIC QUALIFICATIONS
+## ❑ ACADEMIC QUALIFICATIONS
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="49%" valign="top">
 
-**🎓 Diploma in Engineering**
-**Computer Science & Technology**
-*Daffodil Polytechnic Institute, Chandpur*
+<h4>🎓 Diploma in Engineering</h4>
+<b>Computer Science & Technology</b><br/>
+<i>Daffodil Polytechnic Institute, Chandpur</i>
 
-<br/>
+<br/><br/>
 
 | Domain | Coverage |
 |:---|:---|
@@ -126,13 +112,13 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 </td>
 <td width="2%"></td>
-<td width="48%" valign="top">
+<td width="49%" valign="top">
 
-**🎓 Post Graduate Diploma**
-**Network Systems Administration**
-*PeopleNTech · 360 Hours · 8 Modules*
+<h4>🎓 Post Graduate Diploma</h4>
+<b>Network Systems Administration</b><br/>
+<i>PeopleNTech · 360 Hours · 8 Modules</i>
 
-<br/>
+<br/><br/>
 
 | Domain | Coverage |
 |:---|:---|
@@ -146,7 +132,7 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 ---
 
-## ❑ &nbsp; PGD — NSA COURSE MODULES
+## ❑ PGD — NSA COURSE MODULES
 
 <div align="center">
 
@@ -155,14 +141,14 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 <br/>
 
-| &nbsp; | Module | Technical Coverage | Hours | Status |
+| # | Module | Technical Coverage | Hours | Status |
 |:---:|:---|:---|:---:|:---:|
-| `01` | **CompTIA A+** | Hardware · Operations · Network Troubleshooting | 30h | ✅ Completed |
+| `01` | **CompTIA A+** | Hardware · Operations · Network Troubleshooting | 30h | ✅ Done |
 | `02` | **CCNA — Cisco 200-301** | Cisco Certified Network Associate | 65h | 🔄 Active |
-| `03` | **Linux Administration — RHEL 8.3** | RHCSA · RHCE · Server Hardening & Security | 75h | 🔜 Upcoming |
+| `03` | **Linux Admin — RHEL 8.3** | RHCSA · RHCE · Server Hardening & Security | 75h | 🔜 Upcoming |
 | `04` | **Windows Server 2019** | Enterprise Server Administration | 75h | 🔜 Upcoming |
 | `05` | **AWS Solution Architect** | Cloud Infrastructure & Architecture | 25h | 🔜 Upcoming |
-| `06` | **Advanced MikroTik Networking** | MTCNA · MTCRE · ISP Configuration | 30h | 🔜 Upcoming |
+| `06` | **Advanced MikroTik** | MTCNA · MTCRE · ISP Configuration | 30h | 🔜 Upcoming |
 | `07` | **IT Security & Ethical Hacking** | Offensive & Defensive Security Operations | 30h | 🔜 Upcoming |
 | `08` | **Project / Industrial Attachment** | Real-world Enterprise Deployment | 30h | 🔜 Upcoming |
 
@@ -170,7 +156,7 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 ---
 
-## ❑ &nbsp; CERTIFICATION PORTFOLIO
+## ❑ CERTIFICATION PORTFOLIO
 
 <div align="center">
 
@@ -188,51 +174,51 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 <br/>
 
 <p>
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-CERTIFIED-C8102E?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1A0A0A" />
-&nbsp;
-<img src="https://img.shields.io/badge/CompTIA%20A%2B-CERTIFIED-C8102E?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1A0A0A" />
-&nbsp;
-<img src="https://img.shields.io/badge/CCNA%20200--301-IN%20PROGRESS-0A4C8B?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0A0E1A" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-CERTIFIED-C8102E?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1A0A0A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CompTIA%20A%2B-CERTIFIED-C8102E?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1A0A0A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CCNA%20200--301-IN%20PROGRESS-0A4C8B?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0A0E1A" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Linux%20RHCSA-UPCOMING-CC0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=0A0E1A" />
-&nbsp;
-<img src="https://img.shields.io/badge/AWS%20SAA-UPCOMING-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0E1A" />
-&nbsp;
-<img src="https://img.shields.io/badge/MikroTik%20MTCNA-UPCOMING-CC0000?style=for-the-badge&logoColor=white&labelColor=0A0E1A" />
+  <img src="https://img.shields.io/badge/Linux%20RHCSA-UPCOMING-CC0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=0A0E1A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS%20SAA-UPCOMING-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0E1A" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MikroTik%20MTCNA-UPCOMING-CC0000?style=for-the-badge&logoColor=white&labelColor=0A0E1A" />
 </p>
 
 </div>
 
 ---
 
-## ❑ &nbsp; TECHNICAL COMPETENCIES
+## ❑ TECHNICAL COMPETENCIES
 
 <br/>
 
-#### 🌐 &nbsp; Enterprise Infrastructure & Network Systems
+#### 🌐 Enterprise Infrastructure & Network Systems
 
 <p>
-<img src="https://img.shields.io/badge/Cisco%20Networking-005073?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows%20Server%202019-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux%20RHEL%208.3-CC0000?style=flat-square&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/MikroTik%20RouterOS-CC0000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%20Architecture-0A4C8B?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking-005073?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server%202019-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20RHEL%208.3-CC0000?style=flat-square&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik%20RouterOS-CC0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Architecture-0A4C8B?style=flat-square&logo=diagrams.net&logoColor=white" />
 </p>
 
-#### 🔒 &nbsp; Information Assurance & Security Operations
+#### 🔒 Information Assurance & Security Operations
 
 <p>
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%20Security-1A1A2E?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Server%20Hardening-006B5E?style=flat-square&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/Firewall%20Management-D4500A?style=flat-square&logo=pfSense&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethical%20Hacking-8B0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-1A1A2E?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server%20Hardening-006B5E?style=flat-square&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewall%20Management-D4500A?style=flat-square&logo=pfSense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-8B0000?style=flat-square&logoColor=white" />
 </p>
 
-#### ⚙️ &nbsp; Protocol & Systems Stack
+#### ⚙️ Protocol & Systems Stack
 
 <br/>
 
@@ -251,20 +237,18 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 ---
 
-## ❑ &nbsp; GITHUB STATISTICS
-
-<br/>
+## ❑ GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamrultaluckder&show_icons=true&theme=tokyonight&hide_border=true&title_color=4A9EDB&icon_color=4A9EDB&text_color=CCDDEE&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamrultaluckder&show_icons=true&theme=tokyonight&hide_border=true&title_color=4A9EDB&icon_color=4A9EDB&text_color=CCDDEE&bg_color=0D1117&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kamrultaluckder&theme=tokyonight&hide_border=true&background=0D1117&ring=0A4C8B&fire=4A9EDB&currStreakLabel=4A9EDB&sideLabels=88B4E7&dates=88B4E7" />
 
 </div>
 
 ---
 
-## ❑ &nbsp; CONTRIBUTION ACTIVITY
+## ❑ CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -274,7 +258,7 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 ---
 
-## ❑ &nbsp; CONTRIBUTION SNAKE
+## ❑ CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -288,9 +272,7 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 ---
 
-## ❑ &nbsp; DOMAINS OF EXPERTISE
-
-<br/>
+## ❑ DOMAINS OF EXPERTISE
 
 <div align="center">
 
@@ -306,7 +288,7 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 ---
 
-## ❑ &nbsp; PROFESSIONAL PHILOSOPHY
+## ❑ PROFESSIONAL PHILOSOPHY
 
 <div align="center">
 
@@ -322,9 +304,7 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 ---
 
-## ❑ &nbsp; PROFESSIONAL CONTACT
-
-<br/>
+## ❑ PROFESSIONAL CONTACT
 
 <div align="center">
 
@@ -349,7 +329,7 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,25:0D1B2A,60:0A4C8B,100:0A0E1A&height=130&section=footer&fontColor=88B4E7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,25:0D1B2A,60:0A4C8B,100:0A0E1A&height=130&section=footer" />
 
 <br/>
 
