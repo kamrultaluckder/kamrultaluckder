@@ -34,9 +34,7 @@
 
 <table>
   <tr>
-    <td align="right" width="34%">
-      <sub><b>FULL NAME</b></sub>
-    </td>
+    <td align="right" width="34%"><sub><b>FULL NAME</b></sub></td>
     <td width="4%" align="center"><sub>│</sub></td>
     <td width="62%"><b>MD. Kamrul Islam</b></td>
   </tr>
@@ -314,8 +312,7 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamrultaluckder&show_icons=true&theme=tokyonight&hide_border=true&title_color=7BAFD4&icon_color=7BAFD4&text_color=C8D8E8&bg_color=050810&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kamrultaluckder&theme=tokyonight&hide_border=true&background=050810&ring=1B3A5C&fire=7BAFD4&currStreakLabel=7BAFD4&sideLabels=7BAFD4&dates=7B8FA6" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=kamrultaluckder&theme=tokyonight&hide_border=true&background=050810&ring=1B3A5C&fire=7BAFD4&currStreakLabel=7BAFD4&sideLabels=7BAFD4&dates=7B8FA6" />
 
 </div>
 
