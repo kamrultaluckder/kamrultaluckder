@@ -402,3 +402,116 @@ are welcomed through LinkedIn or direct GitHub communications.</i></sub>
 <sub>Engineered with Discipline · Secured by Design · Built for Excellence</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0B3060&height=2" />
+
+<br/>
+
+## `EXTRA-1`  GITHUB TROPHIES
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kamrultaluckder&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0B3060&height=2" />
+
+<br/>
+
+## `EXTRA-2`  TECH STACK — ANIMATED ICON GRID
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows,aws,git,github,bash,py,docker&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-003D5C?style=for-the-badge&logo=cisco&logoColor=7BAFD4&labelColor=0A0F1E" />
+<img src="https://img.shields.io/badge/Wireshark-0A0F1E?style=for-the-badge&logo=wireshark&logoColor=7BAFD4" />
+<img src="https://img.shields.io/badge/GNS3-0A0F1E?style=for-the-badge&logoColor=7BAFD4" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0B3060&height=2" />
+
+<br/>
+
+## `EXTRA-3`  FEATURED PROJECT SHOWCASE
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="49%" valign="top">
+
+### 🗺️ Enterprise Network Simulation
+<sub>Cisco Packet Tracer · VLAN · OSPF · ACL</sub>
+
+Multi-site enterprise topology featuring VLAN segmentation, inter-VLAN routing, dynamic routing (OSPF), and access-control policy enforcement.
+
+<img src="https://img.shields.io/badge/Status-Completed-1B3A5C?style=flat-square&labelColor=0A0F1E" />
+<img src="https://img.shields.io/badge/Tools-Packet%20Tracer-003D5C?style=flat-square&labelColor=0A0F1E" />
+
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
+
+### 🔐 Hardened Linux Server Baseline
+<sub>RHEL 8.3 · SSH Hardening · Firewalld</sub>
+
+Security-hardened Linux server build following CIS-aligned baseline practices — SSH key auth, firewalld zoning, and audit logging.
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-6B2020?style=flat-square&labelColor=0A0F1E" />
+<img src="https://img.shields.io/badge/Tools-RHEL%208.3-7A1E1E?style=flat-square&labelColor=0A0F1E" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0B3060&height=2" />
+
+<br/>
+
+## `EXTRA-4`  ACHIEVEMENT GALLERY
+
+<div align="center">
+
+| 🏆 Milestone | Detail |
+|:---:|:---|
+| **First Certification** | CompTIA A+ — Hardware & Networking Foundation |
+| **Security Milestone** | CompTIA Security+ — Information Security Certified |
+| **Current Objective** | CCNA 200-301 — Enterprise Routing & Switching |
+| **Program Progress** | 1 / 8 Modules Completed — PGD Network Systems Administration |
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0B3060&height=2" />
+
+<br/>
+
+## `EXTRA-5`  DAILY QUOTE MODULE
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0B3060&height=2" />
+
+<br/>
+
+## `EXTRA-6`  VISITOR MAP
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/kamrultaluckder/count.svg" />
+</div>
