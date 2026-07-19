@@ -248,6 +248,56 @@ My objective is not credentials for their own sake, but deep, verifiable compete
 
 <br/>
 
+## `EXTRA-4`  CYBERSECURITY & NETWORKING ZONE
+
+<div align="center">
+
+<sub>Consolidated security posture and network engineering focus</sub>
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+<td width="49%" valign="top">
+
+**🔐 Security Posture**
+
+- Certified: CompTIA Security+ (Information Security)
+- Governance Target: ISO/IEC 27001 Lead Auditor *(Planned)*
+- Focus: Threat Analysis · Access Control · VPN · Firewall Management · Security Hardening
+
+</td>
+<td width="2%"></td>
+<td width="49%" valign="top">
+
+**🗺️ Network Engineering Focus**
+
+- Active: CCNA 200-301 (Cisco Systems)
+- Core Domains: Routing & Switching · VLAN Design · ACL
+- Also: NAT/PAT · Enterprise Topology Design
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Security & Networking Learning Roadmap**
+
+| Target | Milestone |
+|:---:|:---|
+| `2026 Q3` | CCNA 200-301 — Network Engineering Certification |
+| `2026 Q4` | Linux RHCSA/RHCE — Security Hardening Track |
+| `2027 Q3` | CEH + ISO/IEC 27001 Lead Auditor |
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0B3060&height=2" />
+
+<br/>
+
 ## `07`  SKILLS PROFICIENCY INDEX
 
 \`\`\`text
