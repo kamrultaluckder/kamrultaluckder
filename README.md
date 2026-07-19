@@ -9,11 +9,11 @@
 <br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-0A2D5C?style=for-the-badge&labelColor=080D1A&color=0A2D5C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-NETWORK%20%26%20SECURITY-0A2D5C?style=for-the-badge&logo=cisco&logoColor=6B9FCC&labelColor=080D1A&color=0A2D5C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STANDARD-ISO%2FIEC%2027001-0A2D5C?style=for-the-badge&labelColor=080D1A&color=0A2D5C" />
+<img alt="Status" src="https://img.shields.io/static/v1?label=STATUS&message=ACTIVELY+LEARNING&color=0A2D5C&labelColor=080D1A&style=for-the-badge"/>
+&nbsp;
+<img alt="Focus" src="https://img.shields.io/static/v1?label=FOCUS&message=NETWORK+%26+SECURITY&color=0A2D5C&labelColor=080D1A&style=for-the-badge&logo=cisco&logoColor=6B9FCC"/>
+&nbsp;
+<img alt="Standard" src="https://img.shields.io/static/v1?label=STANDARD&message=ISO%2FIEC+27001&color=0A2D5C&labelColor=080D1A&style=for-the-badge"/>
 </p>
 
 <br/>
@@ -188,19 +188,19 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-CERTIFIED-7A1515?style=for-the-badge&logo=comptia&logoColor=EDF2F8&labelColor=080D1A" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CompTIA%20A%2B-CERTIFIED-7A1515?style=for-the-badge&logo=comptia&logoColor=EDF2F8&labelColor=080D1A" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CCNA%20200--301-IN%20PROGRESS-0A2D5C?style=for-the-badge&logo=cisco&logoColor=6B9FCC&labelColor=080D1A" />
+<img alt="Security+" src="https://img.shields.io/static/v1?label=CompTIA+Security%2B&message=CERTIFIED&color=7A1515&labelColor=080D1A&style=for-the-badge&logo=comptia&logoColor=EDF2F8"/>
+&nbsp;
+<img alt="A+" src="https://img.shields.io/static/v1?label=CompTIA+A%2B&message=CERTIFIED&color=7A1515&labelColor=080D1A&style=for-the-badge&logo=comptia&logoColor=EDF2F8"/>
+&nbsp;
+<img alt="CCNA" src="https://img.shields.io/static/v1?label=CCNA+200-301&message=IN+PROGRESS&color=0A2D5C&labelColor=080D1A&style=for-the-badge&logo=cisco&logoColor=6B9FCC"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Linux%20RHCSA-UPCOMING-5C1A1A?style=for-the-badge&logo=redhat&logoColor=EDF2F8&labelColor=080D1A" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS%20SAA-UPCOMING-6B3210?style=for-the-badge&logo=amazonaws&logoColor=EDF2F8&labelColor=080D1A" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MikroTik%20MTCNA-UPCOMING-5C1A1A?style=for-the-badge&logoColor=EDF2F8&labelColor=080D1A" />
+<img alt="RHCSA" src="https://img.shields.io/static/v1?label=Linux+RHCSA&message=UPCOMING&color=5C1A1A&labelColor=080D1A&style=for-the-badge&logo=redhat&logoColor=EDF2F8"/>
+&nbsp;
+<img alt="AWS" src="https://img.shields.io/static/v1?label=AWS+SAA&message=UPCOMING&color=6B3210&labelColor=080D1A&style=for-the-badge&logo=amazonaws&logoColor=EDF2F8"/>
+&nbsp;
+<img alt="MikroTik" src="https://img.shields.io/static/v1?label=MikroTik+MTCNA&message=UPCOMING&color=5C1A1A&labelColor=080D1A&style=for-the-badge&logoColor=EDF2F8"/>
 </p>
 
 </div>
@@ -269,22 +269,22 @@ Dedicated and discipline-driven Computer Science professional pursuing dual acad
 <sub><b>ENTERPRISE INFRASTRUCTURE & NETWORK SYSTEMS</b></sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco%20Networking-003050?style=flat-square&logo=cisco&logoColor=6B9FCC" />
-  <img src="https://img.shields.io/badge/Windows%20Server%202019-003F70?style=flat-square&logo=windows&logoColor=EDF2F8" />
-  <img src="https://img.shields.io/badge/Linux%20RHEL%208.3-6B1515?style=flat-square&logo=redhat&logoColor=EDF2F8" />
-  <img src="https://img.shields.io/badge/MikroTik%20RouterOS-6B1515?style=flat-square&logoColor=EDF2F8" />
-  <img src="https://img.shields.io/badge/AWS%20Cloud-6B2E10?style=flat-square&logo=amazonaws&logoColor=EDF2F8" />
-  <img src="https://img.shields.io/badge/Network%20Architecture-0A2D5C?style=flat-square&logo=diagrams.net&logoColor=6B9FCC" />
+<img alt="Cisco" src="https://img.shields.io/static/v1?label=&message=Cisco+Networking&color=003050&style=flat-square&logo=cisco&logoColor=6B9FCC"/>
+<img alt="Windows" src="https://img.shields.io/static/v1?label=&message=Windows+Server+2019&color=003F70&style=flat-square&logo=windows&logoColor=EDF2F8"/>
+<img alt="Linux" src="https://img.shields.io/static/v1?label=&message=Linux+RHEL+8.3&color=6B1515&style=flat-square&logo=redhat&logoColor=EDF2F8"/>
+<img alt="MikroTik" src="https://img.shields.io/static/v1?label=&message=MikroTik+RouterOS&color=6B1515&style=flat-square&logoColor=EDF2F8"/>
+<img alt="AWS" src="https://img.shields.io/static/v1?label=&message=AWS+Cloud&color=6B2E10&style=flat-square&logo=amazonaws&logoColor=EDF2F8"/>
+<img alt="Network" src="https://img.shields.io/static/v1?label=&message=Network+Architecture&color=0A2D5C&style=flat-square&logo=diagrams.net&logoColor=6B9FCC"/>
 </p>
 
 <sub><b>INFORMATION ASSURANCE & SECURITY OPERATIONS</b></sub>
 
 <p>
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-7A1515?style=flat-square&logo=comptia&logoColor=EDF2F8" />
-  <img src="https://img.shields.io/badge/Network%20Security-080D1A?style=flat-square&logo=wireshark&logoColor=6B9FCC" />
-  <img src="https://img.shields.io/badge/Server%20Hardening-0A2D20?style=flat-square&logo=redhat&logoColor=EDF2F8" />
-  <img src="https://img.shields.io/badge/Firewall%20Management-5C2800?style=flat-square&logo=pfSense&logoColor=EDF2F8" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-4D1515?style=flat-square&logoColor=EDF2F8" />
+<img alt="Security+" src="https://img.shields.io/static/v1?label=&message=CompTIA+Security%2B&color=7A1515&style=flat-square&logo=comptia&logoColor=EDF2F8"/>
+<img alt="Wireshark" src="https://img.shields.io/static/v1?label=&message=Network+Security&color=080D1A&style=flat-square&logo=wireshark&logoColor=6B9FCC"/>
+<img alt="Hardening" src="https://img.shields.io/static/v1?label=&message=Server+Hardening&color=0A2D20&style=flat-square&logo=redhat&logoColor=EDF2F8"/>
+<img alt="Firewall" src="https://img.shields.io/static/v1?label=&message=Firewall+Management&color=5C2800&style=flat-square&logo=pfSense&logoColor=EDF2F8"/>
+<img alt="Hacking" src="https://img.shields.io/static/v1?label=&message=Ethical+Hacking&color=4D1515&style=flat-square&logoColor=EDF2F8"/>
 </p>
 
 <br/>
@@ -395,11 +395,11 @@ built for operational readiness, institutional scalability, and long-term resili
 <div align="center">
 
 <a href="https://www.linkedin.com/in/md-kamrul-islam-528063266">
-  <img src="https://img.shields.io/badge/LinkedIn-MD.%20Kamrul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003A6B" />
+<img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=MD.+Kamrul+Islam&color=0A66C2&labelColor=003A6B&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/kamrultaluckder">
-  <img src="https://img.shields.io/badge/GitHub-kamrultaluckder-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=161B22" />
+<img alt="GitHub" src="https://img.shields.io/static/v1?label=GitHub&message=kamrultaluckder&color=161B22&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
